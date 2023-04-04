@@ -7,7 +7,7 @@ The data is ids and attributes fake tweets, replies, and quotes without texts (f
 
 If you use this data, please cite our paper properly.
 ```
-@article{miyazaki2022this,
+@article{miyazaki2023this,
       title={"This is Fake News": Characterizing the Spontaneous Debunking from Twitter Users to COVID-19 False Information}, 
       author={Miyazaki, Kunihiro and Uchiba, Takayuki and Tanaka, Kenji and An, Jisun and Kwak, Haewoon and Sasahara, Kazutoshi},
       journal={ICWSM},
